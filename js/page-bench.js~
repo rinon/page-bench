@@ -1,0 +1,5 @@
+(function(exports) {
+  var iframe = document.getElementById("testFrame");
+  iframe.src="
+
+}).call(this, typeof exports === "undefined" ? (PageBench = {}) : exports);
